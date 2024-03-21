@@ -3,8 +3,8 @@
 *SCM*: Colaboração
 
 - RDR
- - RDR 1
- - RDR 2   
+  - RDR 1
+  - RDR 2   
 - Minecraft
 - Super Mario
 - Dark Souls
