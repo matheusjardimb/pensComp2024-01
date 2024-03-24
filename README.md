@@ -1,14 +1,7 @@
-# pensComp2024-01
+# Notas de aula
 
-*SCM*: Colaboração
+Este repositório contém anotações sobre as aulas de Pensamento Computacional, da turma de 2024-01.
 
-- RDR
-  - RDR 1
-  - RDR 2   
-- Minecraft
-- Super Mario
-- Dark Souls
-- NFS
+Mais detalhes em [atitus.edu.br/cursos/graduacao/ciencia-da-computacao](https://www.atitus.edu.br/cursos/graduacao/ciencia-da-computaca).
 
-
-![alt text](image.png)
+Salientamos a importância do inglês na carreira de TI. Este repositório oferece um pequeno dicionário de palavras úteis na rotina dos programadores.
